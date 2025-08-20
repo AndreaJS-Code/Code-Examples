@@ -1,0 +1,64 @@
+Anaheim Angels
+ANA	0
+Arizona Diamondbacks
+ARD 	0
+Atlanta Braves
+ATB 	1
+Baltimore Orioles
+BAO 	0
+Boston Americans
+BOA 	2
+Boston Braves
+BOB 	1
+Boston Red Sox
+BRS 	2
+Brooklyn Dodgers
+BRD 	3
+Chicago Cubs
+CHC 	0
+Chicago White Sox
+CWS 	0
+Cincinnati Reds
+CIR 	0
+Cleveland Indians
+CLI 	0
+Detroit Tigers
+DET 	0
+Florida Marlins
+FLM	0
+Houston Astros
+HOA	0
+Kansas City Royals
+KCR	0
+Los Angeles Dodgers
+LAD	3
+Milwaukee Braves
+MIB	1
+Minnesota Twins
+MIT	4
+New York Giants
+NYG	5
+New York Mets
+NYM	0
+New York Yankees
+NYY	0
+Oakland Athletics
+OAA	6
+Philadelphia Athletics
+PHA	6
+Philadelphia Phillies
+PHP	0
+Pittsburgh Pirates
+PIP	0
+San Francisco Giants
+SFG	5
+St. Louis Cardinals
+SLC	0
+Texas Rangers
+TER	0
+Toronto Blue Jays
+TBJ	0
+Washington Nationals
+WAN	0
+Washington Senators
+WAS	4
