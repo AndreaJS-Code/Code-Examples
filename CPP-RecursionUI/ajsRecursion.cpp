@@ -3,7 +3,6 @@
 PROGRAM: ajsRecusion.cpp
 WRITTEN BY: Andrea Sitton
 FOR: CPS 161 - Assignment #12
-DUE: 04 May 2025
 
 PURPOSE: This program solves the following second-order linear homogeneous recurrance function:
    f(n) = a * f(n-2) + b * f(n-1)
